@@ -3,7 +3,7 @@
 ![me] (https://res.cloudinary.com/carina-bosio/image/upload/v1664412689/Banner_GIT_bkiuvj.png)
 <!--
 **CariBosio/CariBosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![readme-top](https://user-images.githubusercontent.com/79423391/145894635-1107480d-2363-406c-9d51-1b96683265b3.png)
+//![readme-top](https://user-images.githubusercontent.com/79423391/145894635-1107480d-2363-406c-9d51-1b96683265b3.png)
 
 <h2 align="center"> Full Stack Developer</h2>
 
