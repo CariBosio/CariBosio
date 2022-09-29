@@ -1,4 +1,4 @@
-### Hi, I`m Carina 👋💻😃
+### Hi!!! 👋💻😃
 
 <p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664414391/Banner_rojo_vfv0ma.png" alt="caribosio" /></p>
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Carina Bosio</h1>
-<h3 align="center">Juniors Full Stack Developer de Córdoba, Argentina</h3>
+<!-- <h1 align="center">Hi 👋, I'm Carina Bosio</h1> -->
+<!-- <h3 align="center">Juniors Full Stack Developer de Córdoba, Argentina</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
 
