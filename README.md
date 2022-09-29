@@ -1,6 +1,6 @@
 ### Hi!!! 👋💻😃
 
-<p><img align="center" heigth="50" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" alt="caribosio" /></p>
+<p><img align="center" height="50" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" alt="caribosio" /></p>
 
 
 
