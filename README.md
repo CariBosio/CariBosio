@@ -1,6 +1,6 @@
 ### Hi!!! 👋💻😃
 
-<p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664414836/Banner_2_kora45.png" alt="caribosio" /></p>
+<p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" alt="caribosio" /></p>
 
 <!--
 **CariBosio/CariBosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
