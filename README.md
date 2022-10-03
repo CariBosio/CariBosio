@@ -1,6 +1,6 @@
  <p align="center">Hi!!! 👋💻😃</p>
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD7C7C&center=true&width=500&height=100&lines=Bienvenidos+a+mi+perfil!!!!" alt="Typing SVG" /></a>
+ <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD7C7C&center=true&width=500&height=100&lines=Bienvenidos+a+mi+perfil!!!!" alt="Typing SVG" /></a>
 
 <p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" alt="caribosio" /></p>
 
