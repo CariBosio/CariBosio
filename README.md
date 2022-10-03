@@ -27,3 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caribosio&" alt="caribosio" /></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD7C7C&center=true&width=435&lines=Gracias+por+visitar+mi+perfil!!!;Cont%C3%A1ctame" alt="Typing SVG" /></a>
+<p>
