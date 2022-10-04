@@ -1,11 +1,10 @@
  
  <p align="center"><img src="https://res.cloudinary.com/carina-bosio/image/upload/v1664847423/hi-removebg-preview_rgz7fr.png" height="89" width="200"/><p/>
- 
  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD7C7C&center=true&width=500&height=100&lines=¡Bienvenidos+a+mi+perfil!" alt="Typing SVG" /></a>
 <p align="center"><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" height="180" width="600"/></p>
 
 <!-- <h1 align="center">Hi 👋, I'm Carina Bosio</h1> -->
-<!-- <h3 align="center">Juniors Full Stack Developer de Córdoba, Argentina</h3> -->
+<h3 align="center">de Córdoba, Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
 
