@@ -21,7 +21,7 @@
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
-
+<br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
 
