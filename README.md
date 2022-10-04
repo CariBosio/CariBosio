@@ -21,7 +21,7 @@
   <br/>
   En un mismo sentido, desde la Programación, siempre trato de brindar una mirada enfocada en la experiencia de usuario, intentando comprender e interpretar qué le puede servir, gustar o motivar.
   <br/>
-  Soy una persona curiosa <img src="https://www.canva.com/design/DAFOH64fDqk/lNmT1RtcxxkucY2bW4OWbQ/edit?utm_content=DAFOH64fDqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="30px"> que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios y a los equipos de trabajo.
+  Soy una persona curiosa que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios y a los equipos de trabajo.
  </em>
   <p/>
 <br/>
