@@ -16,8 +16,11 @@
  <em>
  Soy <b>Psicóloga</b> <img src="https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="30px"> y me apasiona el mundo IT. <br/>
   <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> y muy entusiasta del <b>Diseño FrontEnd</b>.
+  <br/>
   Desde la intervención Psicológica mi propósito ha sido siempre comprender y acompañar emocionalmente los "malestares", pero, sobre todas las cosas, comprender y favorecer los "bienestares", apoyando a las personas a desarrollar todo su potencial. Disfruto ayudar a las personas en su crecimiento, encontrar su propósito y desarrollar sus habilidades. 
-  En un mismo sentido, desde la Programación, siempre trato de brindar una mirada enfocada en el usuario, intentando comprender e interpretar qué le puede servir, gustar o motivar.
+  <br/>
+  En un mismo sentido, desde la Programación, siempre trato de brindar una mirada enfocada en la experiencia de usuario, intentando comprender e interpretar qué le puede servir, gustar o motivar.
+  <br/>
   Soy una persona curiosa que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios y a los equipos de trabajo.
  </em>
   <p/>
