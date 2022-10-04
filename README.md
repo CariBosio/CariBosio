@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/carina-susana-bosio-73621215b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carina-susana-bosio-73621215b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/carinabosio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/carinabosio" height="30" width="40" /></a>
 <a href="https://www.instagram.com/carinasbosio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/carinasbosio/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/carinasbosio/" target="blank"><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664853878/gmail_fystht.png" alt="https://www.instagram.com/carinasbosio/" height="35" width="35" /></a>
+<a href="mailto:caribosio72@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664853878/gmail_fystht.png" alt="https://www.instagram.com/carinasbosio/" height="35" width="35" /></a>
 
 
 
