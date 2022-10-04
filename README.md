@@ -21,7 +21,7 @@
   <br/>
   En un mismo sentido, desde la Programación, siempre trato de brindar una mirada enfocada en la experiencia de usuario, intentando comprender e interpretar qué le puede servir, gustar o motivar.
   <br/>
-  Soy una persona curiosa <img src="https://tenor.com/es/ver/buscando-curiosamente-observando-curiosa-curiosidad-gif-22151039" width="30px">que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios y a los equipos de trabajo.
+  Soy una persona curiosa <img src="https://tenor.com/bE6EZ.gif" width="30px">que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios y a los equipos de trabajo.
  </em>
   <p/>
 <br/>
