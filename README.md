@@ -14,7 +14,11 @@
 
 <p>
  <em>
- Soy <b>Psicóloga</b> <img src="https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+ Soy <b>Psicóloga</b> <img src="https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="30px"> y me apasiona el mundo IT. <br/>
+  <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+  
+  
+  Puedo decir que soy una persona curiosa que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades. Resolutiva y determinada, eficiente al momento de gestionar las tareas y administrar los tiempos. Organizada, persistente, con capacidad de aprendizaje y facilidad de adaptación a los cambios.
  </em>
   <p/>
 <br/>
