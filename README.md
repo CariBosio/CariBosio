@@ -10,7 +10,7 @@
 <h4 align="center">Córdoba, Argentina</h4>
 <br/>
 
-<h3 align="center">Acerca de mi:</h3>
+<h3 align="center">About me:</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
