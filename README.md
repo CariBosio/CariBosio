@@ -13,17 +13,8 @@
 <h3 align="center">About me:</h3>
 
 <p>
-  <img src="https://www.canva.com/design/DAFOHthmOr4/ZD0KIqCpXKxqwdaDTRtM5g/view?utm_content=DAFOHthmOr4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="40px">
-
-   
-    I am a 3rd Year undergraduate from <img src="
-https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="40px"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-   
-</p>
+ 
+ <p/>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
