@@ -1,5 +1,5 @@
  
- <p align="center"><img src="https://res.cloudinary.com/carina-bosio/image/upload/v1664847423/hi-removebg-preview_rgz7fr.png" height="134" width="300"/><p/>
+ <p align="center"><img src="https://res.cloudinary.com/carina-bosio/image/upload/v1664847423/hi-removebg-preview_rgz7fr.png" height="89" width="200"/><p/>
  
  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD7C7C&center=true&width=500&height=100&lines=¡Bienvenidos+a+mi+perfil!" alt="Typing SVG" /></a>
 <p align="center"><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" height="180" width="600"/></p>
