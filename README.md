@@ -13,7 +13,9 @@
 <h3 align="center">About me:</h3>
 
 <p>
- 
+ Soy psicóloga y me apasiona el mundo IT.
+En el 2022 decidí entrar en un Bootcamp para afianzar mis bases en programación, permitiéndome adquirir experiencia profesional y un mayor acercamiento a la experiencia de trabajo con otros desarrolladores. 
+Puedo decir que soy una persona curiosa que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades.
  <p/>
 <br/>
 
