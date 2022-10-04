@@ -1,6 +1,6 @@
  <p align="center">Hi!!! 👋💻😃</p>
  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD7C7C&center=true&width=500&height=100&lines=Bienvenidos+a+mi+perfil!!!!" alt="Typing SVG" /></a>
-<p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" alt="caribosio" /></p>
+<p><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664845437/Banner_peque_swljff.png" /></p>
 
 <!-- <h1 align="center">Hi 👋, I'm Carina Bosio</h1> -->
 <!-- <h3 align="center">Juniors Full Stack Developer de Córdoba, Argentina</h3> -->
