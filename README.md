@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://res.cloudinary.com/carina-bosio/image/upload/v1664415045/Banner_2_eydxjy.png" height="180" width="600"/></p>
 
 <!-- <h1 align="center">Hi 👋, I'm Carina Bosio</h1> -->
-<h3 align="center">de Córdoba, Argentina</h3>
+<h4 align="center">de Córdoba, Argentina</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
 
