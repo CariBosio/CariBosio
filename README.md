@@ -13,10 +13,10 @@
 <h3 align="center">About me:</h3>
 
 <p>
- Soy psicóloga y me apasiona el mundo IT.
-En el 2022 decidí entrar en un Bootcamp para afianzar mis bases en programación, permitiéndome adquirir experiencia profesional y un mayor acercamiento a la experiencia de trabajo con otros desarrolladores. 
-Puedo decir que soy una persona curiosa que siempre está buscando nuevos desafíos y aprendiendo nuevas habilidades.
- <p/>
+ <em>
+ Soy <b>Psicóloga</b> <img src="https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+ </em>
+  <p/>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caribosio&label=Profile%20views&color=0e75b6&style=flat" alt="caribosio" /> </p>
