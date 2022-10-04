@@ -13,9 +13,8 @@
 <h3 align="center">About me:</h3>
 
 <p>
-  
-   <img src="
-https://www.canva.com/design/DAFOHthmOr4/ZD0KIqCpXKxqwdaDTRtM5g/view?utm_content=DAFOHthmOr4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="40px">
+  <img src="https://www.canva.com/design/DAFOHthmOr4/ZD0KIqCpXKxqwdaDTRtM5g/view?utm_content=DAFOHthmOr4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="40px">
+
    
     I am a 3rd Year undergraduate from <img src="
 https://i.pinimg.com/originals/95/88/89/958889faa14d32a15f93480ee0542c05.gif" width="40px"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
