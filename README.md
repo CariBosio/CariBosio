@@ -16,7 +16,7 @@
 Soy una desarrolladora apasionada por crear interfaces web escalables, intuitivas y centradas en el usuario. Mi background profesional en **Psicología** me permite tener una visión única: no solo escribo código, sino que entiendo cómo piensan y sienten los usuarios al interactuar con un producto.
 
 🔭 **Actualmente estoy trabajando en:**
-Proyectos desafiantes usando **React**, **TypeScript** y **Node.js**, **Creative Code** enfocándome en la componentización y performance.
+Proyectos desafiantes usando **React**, **TypeScript** y **Node.js**, **Creative Code**, enfocándome en la componentización y performance.
 
 🌱 **Mi enfoque:**
 Combinar la lógica técnica con principios de diseño UX/UI para resolver problemas complejos de forma humana y eficiente.
