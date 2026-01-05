@@ -9,7 +9,7 @@
 
 <h3 align="center">About me:</h3>
 
-### Hola, soy Carina! 👋  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
+### Hola, soy Carina! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
 
 **Frontend Developer | React & TypeScript Specialist | UX/UI Oriented**
 
